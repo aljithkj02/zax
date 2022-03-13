@@ -44,28 +44,7 @@ header{
     background: var(--bggradient);
 }
 
-.dropdown-content{
-    display: none;
-    position: absolute;
-    background: rgb(255, 251, 251);
-    min-width: opx 2px 15px 0px rgba(0,0,0,0.2);
-    z-index:1;
-}
 
-.dropdown-content a{
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover{
-    background: #ddd;
-}
-
-.dropdown:hover .dropdown-content{
-    display: block;
-}
 
 header .nav-item:last-child{
     padding-right: 10.5em;
@@ -206,21 +185,7 @@ header .container .col-md-7 button{
     font-family: var(--Patua);
 }
 
-.purchase>h1{
-   padding-bottom: 0.1em;
-   font-family: var(--Lobster);
-}
 
-.purchase>p{
-    color: var(--light-black);
-    font-size: 3vmin;
-    padding-bottom: 10vmin;
-}
-
-.purchase .cards .card{
-    width: 22rem;
-    margin: 1rem;
-}
 
 .cards .title{
     background: rgba(208,241,241,0.199);
@@ -234,16 +199,6 @@ header .container .col-md-7 button{
     color: var(--light-black);
 }
 
-.card-body .pricing{
-    background:rgba(208,241,241,0.199);
-    border-top-right-radius: 230px;
-    border-top-left-radius: 230px;
-}
-
-.card-body .pricing>h1{
-    font-size: 10vmin;
-    padding: 1em 0.5em;
-}
 
 /*--Section 3*/
 
@@ -277,21 +232,7 @@ header .container .col-md-7 button{
     font-size: 3vmin;
 }
 
-.section-3 .desktop{
-    background: white;
-    display: inline-block;
-    border-radius: 3em;
-    padding: 2vmin 4.5vmin;
-    margin: em;
-}
 
-.section-3 .desktop h3{
-    font-size: 4vmin;
-}
-
-.section-3 .desktop p{
-    font-size: 2vmin;
-}
 
 /*--Ssection 4--*/
 
