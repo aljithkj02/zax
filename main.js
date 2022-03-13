@@ -11,7 +11,7 @@ let nCount=function(selector){
                 Counter:$(this).text()
             },
             {
-                duration:4000,
+                duration:3000,
                 easing:"swing",
                 step:function(value){
                     $(this).text(Math.ceil(value));
