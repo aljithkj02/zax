@@ -1,0 +1,160 @@
+@media only screen and (max-width:1074px){
+    header.navbar-brand{
+        padding-left:1rem ;
+    }
+
+    .section-1 .row .col-md-6 .panel{
+        position: initial;
+        height: initial;
+        margin-top: 0em;
+    }
+
+    .section-2 .cover{
+        background-position: -25vmin -10vmin;
+    }
+
+    .numbers .rect{
+        width: 10rem;
+        height: 8rem;
+    }
+
+    .numbers .rect h1{
+        font-size: 2rem;
+    }
+
+    .section-3{
+        height: inherit;
+        padding: 10vmin !important;
+    }
+
+    .section-3 .row h1{
+        padding: 6vmin 4vmin;
+    }
+
+    .section-3 .row .col-md-6{
+        text-align: center !important;
+    }
+    .section-4 .carousel-item{
+        padding-left: 0.6rem;
+    }
+
+    .section-4 .team{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+
+}
+
+@media only screen and (max-width:425px) {
+    footer .row .col-md-2{
+        margin-top: 8vmin;
+    }
+
+    .section-3 .row p{
+        font-size: 0.8em;
+    }
+
+    .section-3 .row h1{
+        font-size: 1.6em;
+    }
+
+    .section-3 .row .desktop{
+        margin-top: 2em;
+      
+    }
+
+    footer .column i {
+        padding: 1vmin;
+    }
+
+    .social1 h5{
+        font-size: 4vmin;
+        margin-right: 9vmin;
+        margin-top: 6vmin;
+    }
+
+}
+
+@media only screen and (max-width:375px) {
+    .section-4 .card{
+        width: 15rem;
+    }
+   
+
+}
+
+@media only screen and (max-width:344px) {
+    header.navbar-brand{
+        font-size: 2em;
+    }
+
+}
+
+@media only screen and (max-width:768px){
+    .section-4 .card{
+        width: 20rem;
+        margin-left: -14vmin;
+    }
+
+   
+}
+   
+@media only screen and (max-width:820px){
+    .section-4 .card{
+        width: 23rem;
+        margin-left: -14vmin;
+    }
+    
+}
+
+@media only screen and (max-width:414px){
+    .section-4 .card{
+        width: 20rem;
+        margin-left:-0.5rem;
+    }
+
+    header .navbar-brand{
+    
+        font-size: 1.8em;
+        font-family: var(--Patua);
+    }
+
+    header img{
+      
+        height: 90vmin;
+        margin-top: -18vmin;
+    }
+    .icon-style1 {
+       
+        font-size: 11vmin;
+        padding-left: 3vmin;
+        }
+        .icon-style2 {
+       
+            font-size: 11vmin;
+            padding-left: 3vmin;
+            }
+           
+        
+        .icons{
+            margin-left: -0.9em;
+        }
+
+        .social p{
+            font-size: 3vmin;
+            margin-bottom: 9vmin;
+        }
+
+        .social1 h5{
+            font-size: 4vmin;
+            margin-right: 9vmin;
+            margin-top: 6vmin;
+        }
+
+        footer .column i {
+            padding: 1vmin;
+        }
+
+     
+}
