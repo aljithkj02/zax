@@ -128,7 +128,7 @@ header .container .col-md-7 button{
 .cover{
     width: 100%;
     height: 55vmin;
-    background: url(../assets/pubg.jpg);
+    background: url(../images/pubg.jpg);
     background-position: -24rem -19rem;
     background-size: 127%;
     position: relative;
