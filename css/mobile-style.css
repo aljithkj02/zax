@@ -156,5 +156,16 @@
             padding: 1vmin;
         }
 
+        .numbers {
+            margin-top: -24vmin;
+        }
+
+        .numbers .rect h1{
+            padding-top: 4vmin;
+        }
+
+        .head1{
+            font-family: var(--Rubik);
+
      
 }
